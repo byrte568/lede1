@@ -12,7 +12,7 @@ Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https
 <a href ="https://item.taobao.com/item.htm?spm=a230r.1.14.26.4bb55247bX9SiV&id=692981063139&ns=1&abbucket=15#detail"><img src="https://github.com/coolsnowwolf/lede/blob/master/doc/h68k.jpg?raw=true" width=600  /></a>
 
 ## 注意
-
+ 
 1. **不要用 root 用户进行编译**
 2. 国内用户编译前最好准备好梯子
 3. 默认登陆IP 192.168.1.1 密码 password
